@@ -349,4 +349,8 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
+## About the Creator
+
+****[Ganesh Rabilli](https://github.com/ganesh635402)**** — Creator and developer of Flux.
+
 **Flux is being built from the ground up — one language feature at a time.**
