@@ -345,16 +345,6 @@ If you find a bug, have an idea, or want to contribute:
 
 As Flux approaches 1.0, language changes and new features will be evaluated with compatibility and language consistency in mind.
 
-## Language Specification
-
-Want to understand exactly how Flux works?
-
-Read the complete **Flux Language Specification**:
-
-**[Read the Flux Language Specification](docs/spec.md)**
-
-The specification is the technical reference for the language and covers its syntax, semantics, types, functions, collections, temporal programming, events, concurrency, modules, packages, standard library, and runtime behavior.
-
 ---
 
 ## License
