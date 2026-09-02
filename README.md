@@ -92,7 +92,7 @@ Concurrent execution and communication between concurrent tasks should be direct
 
 Modules and packages should be part of the language ecosystem rather than an afterthought.
 
-### 🛠️ Developer Experience
+### Developer Experience
 
 The language itself should provide the tools developers need to work with it:
 
