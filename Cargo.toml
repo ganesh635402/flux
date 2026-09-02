@@ -1,0 +1,9 @@
+[package]
+name = "flux"
+version = "0.1.0"
+edition = "2024"
+description = "The Flux programming language"
+
+[dependencies]
+toml = "0.8"
+serde = { version = "1", features = ["derive"] }
