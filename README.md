@@ -128,7 +128,7 @@ It is an opportunity to explore language-design questions such as:
 * Interactive input support
 * Explicit type conversion
 
-## 🚀 Example
+## Example
 
 ### Hello World
 
@@ -190,7 +190,7 @@ print(string(age))
 print(bool(age))
 ```
 
-## 🛠️ Built With
+## Built With
 
 Flux is implemented from scratch in **Rust** and currently uses an interpreter-based execution model.
 
@@ -214,7 +214,7 @@ The project includes:
 * Test infrastructure
 * Runtime diagnostics
 
-## 📚 Documentation
+## Documentation
 
 ### Language Specification
 
@@ -247,7 +247,7 @@ The specification documents the currently supported:
 * Type conversion
 * Runtime semantics
 
-## 🧪 Project Status
+## Project Status
 
 Flux is currently **pre-1.0 / experimental** and under active development.
 
@@ -272,44 +272,7 @@ PHASE 7 ✅ Developer Tooling
      FLUX 1.0
 ```
 
-## 📁 Project Structure
-
-```text
-flux/
-├── src/
-│   ├── ast.rs
-│   ├── diagnostic.rs
-│   ├── formatter.rs
-│   ├── interpreter.rs
-│   ├── lexer.rs
-│   ├── lib.rs
-│   ├── lint.rs
-│   ├── main.rs
-│   ├── module_loader.rs
-│   ├── package.rs
-│   ├── parser.rs
-│   ├── repl.rs
-│   ├── runtime.rs
-│   ├── scheduler.rs
-│   ├── stdlib.rs
-│   └── time.rs
-│
-├── docs/
-│   └── spec.md
-│
-├── examples/
-│   └── ...
-│
-├── tests/
-│   └── ...
-│
-├── Cargo.toml
-├── Cargo.lock
-├── LICENSE
-└── README.md
-```
-
-## 🔧 Development
+## Development
 
 Flux is built using Rust.
 
@@ -337,7 +300,7 @@ Format the code:
 cargo fmt
 ```
 
-## 💻 Flux CLI
+## Flux CLI
 
 The Flux CLI provides:
 
@@ -365,7 +328,7 @@ flux
 
 starts the interactive Flux REPL.
 
-## 🤝 Contributing
+## Contributing
 
 Flux is currently an experimental project and is open to exploration, experimentation, feedback, and contributions.
 
@@ -378,7 +341,7 @@ If you find a bug, have an idea, or want to contribute:
 
 As Flux approaches 1.0, language changes and new features will be evaluated with compatibility and language consistency in mind.
 
-## 📄 License
+## License
 
 Flux is released under the **MIT License**.
 
