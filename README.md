@@ -1,6 +1,10 @@
-# Flux
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5469f0c4-f03b-45e6-8407-6cd4048cd875" alt="Flux Programming Language Logo" width="220">
+</p>
 
-**Flux is a modern programming language built from scratch in Rust.**
+<p align="center">
+  A modern programming language built from scratch in Rust.
+</p>
 
 Flux is an attempt to rethink what a practical programming language can look like when it is designed from the ground up around modern programming needs.
 
