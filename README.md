@@ -261,7 +261,7 @@ The current test suite contains:
 
 The project is being developed toward a stable **Flux 1.0** release.
 
-## 🗺️ Roadmap
+## Roadmap
 
 ```text
 PHASE 1 ✅ Core Language Completion & Polish
